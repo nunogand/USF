@@ -1,0 +1,31 @@
+1 - Atendimento dos Assistentes TÇcnicos na USF Tempo de Cuidar.doc
+10 - Atendimento Espor†dico MÇdico_Enfermeiro.doc
+11 - Marcaá∆o de Consulta com Assistente Social.doc
+12 - Referenciaá∆o aos Cuidados de Sa£de Secund†rios.doc
+13 - Renovaá∆o de Medicaá∆o Cr¢nica.doc
+14 - Direito a uma Segunda Opini∆o.doc
+15 - Gest∆o de Acontecimentos Adversos.doc
+16 - Gest∆o da Violància para Profissionais e Utentes.doc
+17 - Tratamento Eficiente de Reclamaá‰es, Sugest‰es e Felicitaá‰es.doc
+18 - Identificaá∆o de Estranhos na USF.doc
+19 - Agendamento e Efectivaá∆o de Delegados de Informaá∆o MÇdica.doc
+2 - Privacidade no Atendimento do Utente.doc
+20 - Gest∆o da Documentaá∆o e da Informaá∆o Externa.doc
+21 - Gest∆o da Documentaá∆o e da Informaá∆o Interna.doc
+22 - Gest∆o da Transferància de Processos.doc
+23 - Mudanáa Interna de MÇdico_Enfermeiro de Fam°lia.doc
+24 - Gest∆o dos Ficheiros Inactivos - ‡bitos.doc
+25 - Norma para Arquivo de Documentos.doc
+26 - Gest∆o de Stocks.doc
+27 - Manutená∆o e Reparaá∆o do Equipamento.doc
+28 - Qualidade dos Documentos e Panfletos.doc
+29 - Qualidade dos Registos Cl°nicos.doc
+3 - Consulta Programada.doc
+30 - Consentimento Informado.doc
+4 - Consulta Aberta.doc
+5 - Consulta Domicili†ria.doc
+6 - Intersubstituiá∆o.doc
+7 - Marcaá∆o de Consultas Programadas para MÇdico_Enfermeiro.doc
+8 - Efectivaá∆o de Consultas Programadas para MÇdico_Enfermeiro.doc
+9 - Marcaá∆o de Consulta Aberta para MÇdico_Enfermeiro.doc
+indice.txt
